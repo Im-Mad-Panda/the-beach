@@ -2,16 +2,16 @@
     margin: 0;
 }
 body{
+    background-image: url(/img/beachshowcase.webp);
+    background-size: cover;
+    background-position: center;
+    height: 700px;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     font-size: 17px;
     color: #926239;
     line-height: 1.6;
 }
-#showcase{
-    background-image: url(/img/beachshowcase.webp);
-    background-size: cover;
-    background-position: center;
-    height: 100%;
+#showcase{  
     text-align: center;
     padding: 0 20px;
 }
